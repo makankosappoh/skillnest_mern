@@ -1,1 +1,0 @@
-# skillnest_mern
