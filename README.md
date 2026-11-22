@@ -1,9 +1,14 @@
-# SkillNest — MERN Web App
+# SkillNest — MERN Web App (Freelance Project)
 
 A course marketplace: students browse/enroll in courses, admins manage the
 catalogue. Built as two independent apps in one repo — a React frontend and
 a small Express/MongoDB API — plus a separate WordPress marketing site
 (not in this repo) that links into this app's `/login` page.
+
+## live demo and pdf proof submission:
+**Demo Video:** [Watch here](https://drive.google.com/file/d/1rC6TqE-v_n9RR28WTTdpJQccl940GoGs/view?usp=sharing)
+
+**pdf proof submission:** [here](https://drive.google.com/file/d/1umbLiCBVzxrIlZmIaJzgsFYZ9d3o6q3h/view?usp=sharing)
 
 ## Architecture
 
